@@ -120,7 +120,6 @@
          <a href="" class="inline-btn">Shiko profilin</a>
       </div>
 
-    
 
 </section>
 
@@ -146,6 +145,7 @@
 <!-- custom js file link  -->
 <script src="js/script.js"></script>
 
-   
+   <div>This is test</div>
+
 </body>
 </html>
